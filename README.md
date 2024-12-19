@@ -3,7 +3,7 @@
 🌱 Constant Learner: Currently diving deeper into Machine Learning, Data Science, and Artificial Intelligence.
 🤝 Collaborator: Excited to collaborate on innovative projects related to data analysis, predictive modeling, and automation.
 💡 Fun Fact: I believe every dataset has a story waiting to be told!
-📫 Let’s Connect: Reach me at [your email] or find me on [LinkedIn/GitHub link].
+📫 Let’s Connect: Reach me at sahupoulomi@gmail.com or find me on https://www.linkedin.com/in/poulomi-d-209aa2218/
 😄 Pronouns: She/Her
 
 <!---
