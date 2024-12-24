@@ -20,12 +20,12 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deypoulomi-cmd&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deypoulomi-cmd&layout=compact&theme=radical" alt="Top Languages" />
+  
+  
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deypoulomi-cmd&theme=radical" alt="GitHub Streak" />
+  
 </p>
 
 ---
