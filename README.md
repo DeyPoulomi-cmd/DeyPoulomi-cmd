@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to My GitHub Profile! 🌟</h1>
 
 <p align="center">
-  <img src="https://via.placeholder.com/1200x400.png?text=Welcome+to+Poulomi+Dey%27s+GitHub+Profile" alt="Profile Banner" width="100%" />
+  <img src="https://media.giphy.com/media/3o7aD5tv1ogNBtDhDi/giphy.gif" alt="Profile Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Poulomi Dey</h1>
@@ -53,7 +53,7 @@
 </p>
 
 <p align="right">
-  <img src="https://via.placeholder.com/250x400.png?text=Welcome+to+My+GitHub" alt="Right Banner" width="250" />
+  <img src="https://media.giphy.com/media/l4FGwHEUCGILz5M5K/giphy.gif" alt="Right Banner" width="250" />
 </p>
 
 ---
