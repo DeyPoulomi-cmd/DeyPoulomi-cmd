@@ -1,7 +1,7 @@
-[![MastterHead] (https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif)] (https://github.com/DeyPoulomi-cmd)
+
 <h1 align="center">Hi 👋, I'm Poulomi Dey</h1>
 <h3 align="center">I turn data into insightful stories and solutions</h3>
-<img align=“right” alt=“coding” width=“400” src=“https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif”>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deypoulomi-cmd&label=Profile%20views&color=0e75b6&style=flat" alt="deypoulomi-cmd" /> </p>
 
