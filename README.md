@@ -1,4 +1,8 @@
-# Poulomi Dey's GitHub Profile
+<h1 align="center">Welcome to My GitHub Profile! 🌟</h1>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/placeholder-banner" alt="Profile Banner" width="100%" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Poulomi Dey</h1>
 <h3 align="center">I turn data into insightful stories and actionable solutions</h3>
@@ -46,6 +50,10 @@
   <a href="https://www.kaggle.com/deypoulomi" target="_blank">
     <img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="Kaggle" height="30" width="40" />
   </a>
+</p>
+
+<p align="right">
+  <img src="https://user-images.githubusercontent.com/placeholder-right-banner" alt="Right Banner" width="250" />
 </p>
 
 ---
