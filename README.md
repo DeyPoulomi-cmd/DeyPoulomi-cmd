@@ -15,6 +15,15 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=deypoulomi-cmd&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deypoulomi-cmd&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deypoulomi-cmd&theme=radical" alt="GitHub Streak" />
+</p>
+
 ---
 
 ## About Me
@@ -90,5 +99,9 @@
 - **Impact**: Increased campaign success rates by 18%.
 
 ---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding Animation" width="300" />
+</p>
 
 Thank you for exploring my GitHub profile! Feel free to reach out for collaborations or discussions. Let's create impactful solutions together.
