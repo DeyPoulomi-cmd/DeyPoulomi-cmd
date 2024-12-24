@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to My GitHub Profile! 🌟</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif" alt="Data Science Animated Banner with Woman" width="100%" />
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" alt="Data Science Woman Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Poulomi Dey</h1>
