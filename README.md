@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to My GitHub Profile! 🌟</h1>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/placeholder-banner" alt="Profile Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/deypoulomi-cmd/deypoulomi-cmd/main/banner.png" alt="Profile Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Poulomi Dey</h1>
@@ -53,7 +53,7 @@
 </p>
 
 <p align="right">
-  <img src="https://user-images.githubusercontent.com/placeholder-right-banner" alt="Right Banner" width="250" />
+  <img src="https://raw.githubusercontent.com/deypoulomi-cmd/deypoulomi-cmd/main/right-banner.png" alt="Right Banner" width="250" />
 </p>
 
 ---
